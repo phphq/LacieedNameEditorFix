@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Lacieed Name Editor Fix")]
-[assembly: AssemblyDescription("Fix for the DF1/DF2 Lacieed Name Editor")]
+[assembly: AssemblyDescription("Path fix for the DF1/DF2 Lacieed Name Editor")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Novahq.net")]
 [assembly: AssemblyProduct("LacieedNameEditorFix")]
-[assembly: AssemblyCopyright("(c) 2018")]
+[assembly: AssemblyCopyright("(c) 2018 Scott Lucht <Novahq.net>")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
