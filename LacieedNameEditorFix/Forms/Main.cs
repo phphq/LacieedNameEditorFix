@@ -185,5 +185,7 @@ namespace LacieedNameEditorFix.Forms
         {
             Common.GoToNovaHq();
         }
+
     }
+
 }
